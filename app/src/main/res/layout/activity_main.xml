@@ -11,8 +11,6 @@
     tools:context="com.londonappbrewery.destini.MainActivity"
     android:background="@drawable/background">
 
-
-
     <TextView
         android:id="@+id/storyTextView"
         android:text="@string/T1_Story"
